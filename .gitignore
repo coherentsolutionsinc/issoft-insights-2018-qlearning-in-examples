@@ -1,0 +1,9 @@
+.idea
+target
+*.iml
+generated
+generated1
+generated2
+**/gmaps
+**/generated
+app
